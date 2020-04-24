@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jimp": "^0.10.3",
     "random-org": "^2.0.1"
   }
 }
